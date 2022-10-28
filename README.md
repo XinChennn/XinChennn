@@ -4,7 +4,7 @@
 
 ## About
 
- **忻辰**  心心念念，暮暮晨晨
+ **忻辰**：心心念念，暮暮晨晨
  
 ### Book
 
@@ -20,9 +20,11 @@
  - ⭐️Study
  - 🤗Playing game is a bit great
 
-# Contact
+### Contact
  - QQ: 316595344
  - WeChat: lz316595344
+
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"><em><b>I love to make friends.</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
 
 <!--
 **XinChennn/XinChennn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
