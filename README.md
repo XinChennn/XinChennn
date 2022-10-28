@@ -1,4 +1,4 @@
-## 👨‍💻[XinChen](https://www.ixinjiu.cn)
+## [XinChennn](https://www.ixinjiu.cn)
 
 👋 Hi, I'm XinChen, a passionate self-taught backend developer from China🚀.
 
