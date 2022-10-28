@@ -1,6 +1,6 @@
-### Hi there 👋
+## [XinChen](https://www.ixinjiu.cn)
 
-# [XinChen](https://www.ixinjiu.cn)
+👋 Hi, I'm XinChen, a passionate self-taught backend developer from China🚀.
 
 <!--
 **XinChennn/XinChennn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
