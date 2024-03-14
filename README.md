@@ -23,5 +23,5 @@
 ### Contact
  - <img src="https://github.com/XinChennn/XinChennn/blob/main/assets/qq.svg" width="16"> 316595344
  - <img src="https://github.com/XinChennn/XinChennn/blob/main/assets/weChat.svg" width="16"> lz316595344
-
+ - <img src="https://github.com/XinChennn/XinChennn/blob/main/assets/logo_gmail_lockup_default_1x_r5.png"> xc316595344@gamil.com
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"><em><b>I love to make friends.</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
